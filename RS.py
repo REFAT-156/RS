@@ -10,5 +10,5 @@ if bit == '64bit':
     from fahad import Subscraption
     Subscraption()
 elif bit == '32bit':
-    from fahad import menu
+    from RS32 import menu
     menu()
