@@ -14,7 +14,7 @@ def Run():
             print("\n\x1b[1;92m Congratulations ! Your Device Support this Tools")
             print('[•] Follow My Github First')
             os.system('xdg-open https://github.com/REFAT-156')
-            from AKING32 import login
+            from fahad32 import login
             login()
         else:
             exit('\033[1;31m[×] Connection Error')
